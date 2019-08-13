@@ -1,4 +1,4 @@
-# David Lin's Cloud Custodian Policies 
+# CogentCloud's Cloud Custodian Policies 
 
 ## Policies in Production
 
